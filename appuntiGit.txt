@@ -1,0 +1,3 @@
+git fetch: aggiorna solo le informazioni sul remoto
+git pull: aggiorna e integra nel branch locale
+git push: invia i commit al repository remoto
