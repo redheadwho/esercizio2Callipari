@@ -1,0 +1,1 @@
+i branch esistono per lavorare senza toccare il codice principale, così da sperimentare, sbagliare, correggere e poi unire tutto quando è pronto.
